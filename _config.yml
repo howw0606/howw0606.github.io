@@ -4,5 +4,5 @@ plugins:
 - jekyll-feed
 - jekyll-sitemap
 - jekyll-seo-tag
-url: https://howw0606.github.io
+url: https://howw0606.github.io/
 baseurl: ""
